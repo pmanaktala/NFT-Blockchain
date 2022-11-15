@@ -1,0 +1,4 @@
+/venv/*
+/nft/*
+.idea
+.DS_Store
